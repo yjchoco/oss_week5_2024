@@ -14,6 +14,9 @@ void main(){
 =======
 	printf("Math: 90 \n");
 	printf("English: 100 \n");
+<<<<<<< HEAD
 	printf("Sum grade: 190 \n");
 >>>>>>> parent of f2ecde3 (report card: math change (git commit --amend edit !!))
+=======
+>>>>>>> parent of 8573cba (report card: Show the sum of each grade)
 }
